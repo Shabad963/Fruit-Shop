@@ -1,4 +1,4 @@
-# firebase_sample
+# fruit shop
 
 A new Flutter project.
 
